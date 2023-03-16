@@ -24,7 +24,7 @@ function App() {
           style={{ marginTop: "2rem", display: display }}
         >
           <h3>
-            {theme.color === "#74eac2"
+            {theme.color === "white"
               ? "I have changed theme to Dark"
               : "I have changed theme to Light"}
           </h3>
